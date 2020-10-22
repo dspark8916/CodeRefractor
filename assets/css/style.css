@@ -28,7 +28,7 @@ body {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -75,16 +75,9 @@ p {
     margin-left: 25px;
 }
 
-/* Moved to sequential order */
-/* .content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-} */
-
 .benefits {
     margin-right: 20px;
-    padding: 40px;
+    padding: 20px;
     clear: both;
     float: right;
     width: 20%;
@@ -152,6 +145,7 @@ p {
     text-align: center;
 }
 
+/* Changed Footer from h2 to h4*/
 .footer h4 {
     font-size: 20px;
 }
