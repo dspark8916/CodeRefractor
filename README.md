@@ -12,8 +12,28 @@
 
 ### Tasks Completed
 
-    Madee sure that all links are functioning correctly. Also, reworked the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before elements or sections of the page.
+    **Summary**
 
+        Made sure that all links are functioning correctly. Also, reworked the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before elements or sections of the page.
+
+    **List of Tasks Completed*
+
+        1. Updated title to Horizon Social Solution Services, Inc.
+
+        2. Updated spacing and indentation in index.html file to make code easier 
+        to read.
+
+        3. Added class id="search-engine-optimization" on line 30 in index.html file to fix broken link.
+
+        4. Added alt attributes to img src elements for accessibility purposes. 
+
+        5. Added semantic elements (header, section, article, aside, & footer) to index.html file.
+
+        6. Rearranged elements in style.css file to be in sequential order.
+
+        7. Combined identical classes in style.css file.
+
+        8. Added comments within style.css file of changes that were made. 
 
 ![Horiseon Webpage Screenshot](https://github.com/dspark8916/CodeRefractor/blob/main/assets/images/Homework_CodeRefractor_index.html.png)
 
