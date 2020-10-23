@@ -16,7 +16,7 @@
 
         Made sure that all links are functioning correctly. Also, reworked the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before elements or sections of the page.
 
-    **List of Tasks Completed*
+    **List of Tasks Completed**
 
         1. Updated title to Horizon Social Solution Services, Inc.
 
@@ -34,6 +34,12 @@
         7. Combined identical classes in style.css file.
 
         8. Added comments within style.css file of changes that were made. 
+
+#### Link To Completed Webpage & Screen Shot of Completed Webpage
+
+    **Live Link** - [Horiseon Social Service Solutions, Inc.](https://dspark8916.github.io/CodeRefractor/)
+
+    **Screenshot** 
 
 ![Horiseon Webpage Screenshot](https://github.com/dspark8916/CodeRefractor/blob/main/assets/images/Homework_CodeRefractor_index.html.png)
 
